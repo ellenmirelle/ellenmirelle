@@ -1,16 +1,49 @@
-## Hi there 👋
+# Ellen Mirelle
 
-<!--
-**ellenmirelle/ellenmirelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Seja bem-vindo(a) ao meu GitHub. 👋
+### Hi! Welcome to my GitHub.
 
-Here are some ideas to get you started:
+🎓 Graduanda em **Gestão da Tecnologia da Informação** na CESAR School.
+🎓 Undergraduate student in **Information Technology Management** at CESAR School.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formada em Administração e atualmente estou direcionando minha trajetória profissional para a tecnologia. Tenho interesse em conectar conhecimentos de gestão, tecnologia e desenvolvimento de soluções.
+
+I hold a degree in Business Administration and am currently building my career in technology. I am interested in combining management, technology, and solution development.
+
+---
+
+### 💻 Tecnologias e ferramentas | Technologies & Tools
+
+- Python
+- SQLite
+- Git & GitHub
+
+### 🚀 Projetos | Projects
+
+**[VerifiQia](https://github.com/luizagraciano/verifiqia)**
+
+Projeto acadêmico desenvolvido em equipe na CESAR School, com foco na educação sobre Inteligência Artificial em escolas públicas.
+
+An academic team project developed at CESAR School, focused on Artificial Intelligence education in public schools.
+
+**Tecnologias | Technologies:** Python, SQLite.
+
+---
+
+### 📚 Atualmente aprendendo | Currently learning
+
+- Desenvolvimento de Software | Software Development
+- Gestão de Projetos | Project Management
+- Banco de Dados | Databases
+
+---
+
+### 🤝 Vamos nos conectar? | Let's connect!
+
+[LinkedIn](SEU_LINK_DO_LINKEDIN) · [GitHub](https://github.com/ellenmirelle)
+
+---
+
+*Em constante aprendizado. | Always learning.*
+
+
