@@ -40,7 +40,7 @@ An academic team project developed at CESAR School, focused on Artificial Intell
 
 ### 🤝 Vamos nos conectar? | Let's connect!
 
-[LinkedIn](SEU_LINK_DO_LINKEDIN) · [GitHub](https://github.com/ellenmirelle)
+[LinkedIn](https://www.linkedin.com/in/ellen-mirelle-185b69235/) · [GitHub](https://github.com/ellenmirelle)
 
 ---
 
